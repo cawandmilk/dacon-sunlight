@@ -1,5 +1,11 @@
 .ipynb_checkpoints/
 
+ckpt/*
 data/*
 logs/*
+pngs/*
+references/*
 submission/*
+tensorboard/*
+
+try*.ipynb
