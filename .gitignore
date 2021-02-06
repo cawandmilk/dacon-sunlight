@@ -8,4 +8,12 @@ references/*
 submission/*
 tensorboard/*
 
+!ckpt/.gitkeep
+!data/.gitkeep
+!logs/.gitkeep
+!pngs/.gitkeep
+!references/.gitkeep
+!submission/.gitkeep
+!tensorboard/.gitkeep
+
 try*.ipynb
